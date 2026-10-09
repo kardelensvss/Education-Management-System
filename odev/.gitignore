@@ -1,0 +1,5 @@
+config.php
+migrate_passwords.php
+hash_uret.php
+.vscode/
+*.log
