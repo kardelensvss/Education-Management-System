@@ -58,15 +58,6 @@ Normal öğretmen yalnızca kendisine atanan derslerin notlarını, devamsızlı
 - Öğrenci ve öğretmen şifrelerini sıfırlama
 - Tüm not değişikliklerinin kayıt altına alındığı **Not Kayıtları** ekranı (kim, ne zaman, hangi notu değiştirdi)
 
-## Not Hesaplama
-
-```
-Ortalama = (Vize ortalaması × 0.40) + (Final × 0.60)
-```
-
-- Vize ortalaması, girilmiş olan vizelerin ortalamasıdır (en fazla 3 vize).
-- Ortalama, vize ve final birlikte girildiğinde hesaplanır.
-- Ortalaması 50 ve üzeri olan ders "Geçti", altı "Kaldı" olarak gösterilir.
 
 ## Güvenlik
 
